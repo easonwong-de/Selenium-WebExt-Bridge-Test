@@ -1,0 +1,30 @@
+{
+	"name": "selenium-webext-bridge-test",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/easonwong-de/Selenium-WebExt-Bridge-Test#readme",
+	"bugs": {
+		"url": "https://github.com/easonwong-de/Selenium-WebExt-Bridge-Test/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/easonwong-de/Selenium-WebExt-Bridge-Test.git"
+	},
+	"license": "MIT",
+	"author": "",
+	"type": "module",
+	"scripts": {
+		"test": "tsx run.ts"
+	},
+	"dependencies": {
+		"geckodriver": "^6.1.0",
+		"selenium-webdriver": "^4.44.0",
+		"selenium-webext-bridge": "^0.4.0"
+	},
+	"devDependencies": {
+		"@types/node": "^25.9.3",
+		"@types/selenium-webdriver": "^4.35.6",
+		"tsx": "^4.22.4",
+		"typescript": "^6.0.3"
+	}
+}
