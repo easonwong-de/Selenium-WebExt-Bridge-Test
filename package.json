@@ -10,8 +10,8 @@
 		"type": "git",
 		"url": "git+https://github.com/easonwong-de/Selenium-WebExt-Bridge-Test.git"
 	},
-	"license": "MIT",
-	"author": "",
+	"license": "UNLICENSED",
+	"author": "Eason Wong <me@easonwong.de> (https://easonwong.de/)",
 	"type": "module",
 	"scripts": {
 		"test": "tsx run.ts"
